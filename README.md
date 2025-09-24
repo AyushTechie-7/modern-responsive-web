@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+
 # 🌐 TechVision | Innovative Solutions
 
 TechVision is a modern, responsive, and visually engaging landing page crafted for startups, SaaS products, and technology-driven companies. It emphasizes sleek UI, animated visuals, and a smooth user experience to showcase digital solutions and services.
